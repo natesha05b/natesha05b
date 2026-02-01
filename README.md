@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**natesha05b/natesha05b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1584" height="396" alt="github banner" src="https://github.com/user-attachments/assets/08771d3a-0e00-4d41-ae08-1c8577db2fe5" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hi, I'm Natesha Bangla
+
+🛡️ Aspiring Cybersecurity Professional | Ethical Hacking Enthusiast  
+🔐 Passionate about securing systems and breaking them ethically
+
+---
+
+## 🚀 About Me
+- 🎓 Diploma Graduate
+- 🧠 Learning Cybersecurity & Ethical Hacking
+- 🖥️ Hands-on with Kali Linux & Ubuntu
+
+---
+
+## 🛠️ Skills
+- Linux (Kali, Ubuntu)
+- Networking (DNS, TCP/IP)
+- Ethical Hacking Basics
+- Bash
+- Python (Security scripting)
+- Cybersecurity Fundamentals
+
+---
+
+## 📌 Projects
+- 🔐 password-strength-analyzer
+- 📧 phishing-website-detection-extension
+
+---
+
+---
+
+## 🌍 Connect With Me
+- 💼 LinkedIn: (linkedin.com/in/bangla-natesha-a5325a38a)
+- 📧 Email: (nateshabanglanatesha@gmail.com)
