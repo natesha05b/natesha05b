@@ -29,6 +29,7 @@
 ## 📌 Projects
 - 🔐 password-strength-analyzer
 - 📧 phishing-website-detection-extension
+-    prompt-enhancer-ai
 
 ---
 
