@@ -6,6 +6,7 @@
 
 🛡️ Aspiring Cybersecurity Professional | Ethical Hacking Enthusiast  
 🔐 Passionate about securing systems and breaking them ethically
+Cybersecurity (Purple Teaming, CTFs, TryHackMe, real-world hands-on)
 
 ---
 
