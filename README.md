@@ -39,4 +39,4 @@ Cybersecurity (Purple Teaming, CTFs, TryHackMe, real-world hands-on)
 ## 🌍 Connect With Me
 - 💼 LinkedIn: (https://www.linkedin.com/in/bangla-natesha-a5325a38a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 - 📧 Email: (nateshabanglanatesha@gmail.com)
-- natesha.live
+natesha.live
